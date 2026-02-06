@@ -1,0 +1,6 @@
+dnspython
+python-dateutil
+python-whois
+six
+dotenv
+requests

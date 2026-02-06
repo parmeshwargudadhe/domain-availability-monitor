@@ -1,0 +1,6 @@
+nohup: ignoring input
+📡 Domain availability monitor started
+Press CTRL+C to stop
+
+[2025-12-30 08:57:33.805602] example.com → available: False
+[2025-12-30 08:57:33.805602] example.in → available: True
